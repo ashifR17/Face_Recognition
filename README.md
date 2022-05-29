@@ -32,3 +32,6 @@ To create your own credential for logging into the application
   python manage.py createsuperuser
 ```
 Once all the dependencies are installed, now your system is ready to run this application.
+
+Note:
+[Copy this file in staticfiles>models](https://1drv.ms/f/s!AlecdCz5gUtbtwy5N9E3zWLYuV7A⁸)
