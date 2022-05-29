@@ -34,4 +34,4 @@ To create your own credential for logging into the application
 Once all the dependencies are installed, now your system is ready to run this application.
 
 Note:
-[Copy this file in staticfiles>models](https://1drv.ms/f/s!AlecdCz5gUtbtwy5N9E3zWLYuV7A⁸)
+[Copy this file in staticfiles>models](https://drive.google.com/file/d/1pScuXRDz0xOEG_MiaP_w46NxLdSdBamG/view?usp=drivesdk)
