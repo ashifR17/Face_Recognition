@@ -33,5 +33,9 @@ To create your own credential for logging into the application
 ```
 Once all the dependencies are installed, now your system is ready to run this application.
 
-Note:
-[Copy this file in both static>models and staticfiles>models](https://drive.google.com/drive/folders/1pV8MajruLBpugPvEiGzdCZh1wFAvq66G)
+## Screenshots
+
+Few screenshots of my web app are shown below
+![screen](https://user-images.githubusercontent.com/100587648/170992052-f630c72e-c9a6-4102-9edb-2140d7ebc879.png)
+
+![screen2](https://user-images.githubusercontent.com/100587648/170992329-eaeb434c-caab-40bb-b38e-a06c2961e9f1.png)
